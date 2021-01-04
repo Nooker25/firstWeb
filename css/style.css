@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Mali:wght@300&display=swap");
+body {
+  font-family: "Mali", cursive;
+}
+h1 {
+  color: black;
+  text-align: center;
+}
+h2 {
+  color: aquamarine;
+  text-align: right;
+}
+h3 {
+  color: indianred;
+  text-align: justify;
+}
+h4 {
+  color: blueviolet;
+}
+h5 {
+  color: brown;
+}
+h6 {
+  color: crimson;
+}
